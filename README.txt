@@ -1,5 +1,7 @@
 This is a library for the Adafruit ILI9341 display products
 
+(Modified for ESP8266)
+
 This library works with the Adafruit 2.8" Touch Shield V2 (SPI)
   ----> http://www.adafruit.com/products/1651
  
